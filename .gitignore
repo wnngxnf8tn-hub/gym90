@@ -9,3 +9,5 @@ android/.gradle/
 android/app/build/
 .DS_Store
 .env
+node_modules__OLD_*/
+package-lock 2.json

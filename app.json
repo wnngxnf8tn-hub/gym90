@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Gym90",
+    "slug": "gym90",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.gym90.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0F1115"
+      }
+    },
+    "plugins": [
+      "expo-notifications",
+      "expo-dev-client"
+    ]
+  }
+}
