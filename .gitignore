@@ -11,3 +11,13 @@ android/app/build/
 .env
 node_modules__OLD_*/
 package-lock 2.json
+
+# iOS build artifacts
+ios/Pods/
+ios/build/
+ios/Podfile.lock
+ios/Podfile.properties.json
+
+# General
+*.xcuserstate
+*.xcuserdata/
