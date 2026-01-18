@@ -21,3 +21,11 @@ ios/Podfile.properties.json
 # General
 *.xcuserstate
 *.xcuserdata/
+
+# iOS artifacts
+ios/Pods/
+ios/build/
+ios/Podfile.lock
+ios/Podfile.properties.json
+ios/**/*.xcuserdatad
+ios/**/*.xcuserdata
