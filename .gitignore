@@ -1,0 +1,31 @@
+node_modules/
+.expo/
+dist/
+build/
+web-build/
+ios/Pods/
+ios/Podfile.lock
+android/.gradle/
+android/app/build/
+.DS_Store
+.env
+node_modules__OLD_*/
+package-lock 2.json
+
+# iOS build artifacts
+ios/Pods/
+ios/build/
+ios/Podfile.lock
+ios/Podfile.properties.json
+
+# General
+*.xcuserstate
+*.xcuserdata/
+
+# iOS artifacts
+ios/Pods/
+ios/build/
+ios/Podfile.lock
+ios/Podfile.properties.json
+ios/**/*.xcuserdatad
+ios/**/*.xcuserdata
